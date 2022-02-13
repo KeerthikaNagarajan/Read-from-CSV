@@ -29,8 +29,8 @@ Print the output.
 ## PROGRAM:
 ```
 To write a python program for reading content from a CSV file.
-Developed by:  Aashima Nazreen Sayeed S
-Register Number: 21500368
+Developed by:  Keerthika N
+Register Number: 21000385
 
 import pandas as pd
 df = pd.read_csv('data1.csv')
